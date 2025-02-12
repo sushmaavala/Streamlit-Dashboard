@@ -26,6 +26,9 @@ Your browser will open the Streamlit Dashboard automatically. 🎉
 
 📊 How to Use
 1.Upload a CSV file (or use the provided Sample_Data_for_Plotting_and_Filtering.csv).
+
 2.View Data Preview & Summary.
+
 3.Select Columns to Filter and view the filtered results.
+
 4.Choose X and Y columns, then click "Generate Plot" to see a visualization.
