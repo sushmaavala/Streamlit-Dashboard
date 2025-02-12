@@ -1,4 +1,5 @@
 📊 Streamlit Data Dashboard
+
 🚀 A simple and interactive data visualization dashboard built using Streamlit. This application allows users to upload a CSV file, filter data,
 and visualize it using interactive plots.
 
